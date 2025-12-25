@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "White Christmas (Official Video)",
+  "base_artist": "Bing Crosby",
+  "createdAt": "2025-12-25T11:55:58.927255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/01_White_Christmas_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Billy Idol",
+      "has_synced": false,
+      "path": "select/02_White_Christmas_Billy_Idol.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Kenny Loggins",
+      "has_synced": true,
+      "path": "select/03_White_Christmas_Kenny_Loggins.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White Christmas (Duet with Daddy Joe)",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/04_White_Christmas_(Duet_with_Daddy_Joe)_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "The Puppini Sisters",
+      "has_synced": false,
+      "path": "select/05_White_Christmas_The_Puppini_Sisters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/06_White_Christmas_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White Christmas (Featuring Doro Pesch)",
+      "artist": "Twisted Sister",
+      "has_synced": true,
+      "path": "select/07_White_Christmas_(Featuring_Doro_Pesch)_Twisted_Sister.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Jessie J",
+      "has_synced": true,
+      "path": "select/08_White_Christmas_Jessie_J.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_White_Christmas_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Aimee Mann",
+      "has_synced": true,
+      "path": "select/10_White_Christmas_Aimee_Mann.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Sheryl Crow",
+      "has_synced": false,
+      "path": "select/11_White_Christmas_Sheryl_Crow.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Claudio Baglioni",
+      "has_synced": true,
+      "path": "select/12_White_Christmas_Claudio_Baglioni.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Neri per Caso",
+      "has_synced": false,
+      "path": "select/13_White_Christmas_Neri_per_Caso.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/14_White_Christmas_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Delta Goodrem",
+      "has_synced": true,
+      "path": "select/15_White_Christmas_Delta_Goodrem.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "White Christmas",
+      "artist": "Kelly Clarkson",
+      "has_synced": false,
+      "path": "select/16_White_Christmas_Kelly_Clarkson.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Bianco Natale (White Christmas)",
+      "artist": "Adriano Celentano",
+      "has_synced": true,
+      "path": "select/17_Bianco_Natale_(White_Christmas)_Adriano_Celentano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "White Christmas",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/pl_01_White_Christmas_Bing_Crosby.txt"
+    }
+  ]
+}
